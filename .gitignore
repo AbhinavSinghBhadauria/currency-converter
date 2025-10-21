@@ -1,0 +1,12 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Env
+.env
+
+# Node (not required, but safe if added later)
+node_modules/
+dist/
+.cache/
+*.log
